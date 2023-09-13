@@ -1,5 +1,5 @@
 FROM jenkins/jenkins
-LABEL maintainer="hitjethva@gmail.com"
+LABEL maintainer="partha.abdas@gmail.com"
 USER root
 RUN mkdir /var/log/jenkins
 RUN mkdir /var/cache/jenkins
