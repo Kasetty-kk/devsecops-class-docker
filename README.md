@@ -2,7 +2,7 @@
 
 ## Pre requisiteis
 
-- launch ubuntu ec2
+- launch ubuntu ec2 (Ubuntu 22.04)
 - Perform the following steps in ubuntu ec2
 
 ## Update OS
